@@ -12,3 +12,5 @@ let spaceNames = () =>
     .then(names => names.join(", "));
 
 spaceNames().then(console.log);
+
+// fetch returns a promise – we are still using promises under the hood
