@@ -12,8 +12,8 @@ let cat = {
     console.log("prrr".repeat(times));
   },
   snore(times) {
-    console.log("ZzZzZ".repeat(times));
-  }
+    console.log("Zzzzzzzz".repeat(times));
+  },
 };
 
 cat.meow(3);
